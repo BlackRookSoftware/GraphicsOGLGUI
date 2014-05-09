@@ -20,7 +20,7 @@
 	<property name="ogl.util.lib" value="${dev.base}/GraphicsOGLUtil/bin" />
 
 	<!-- Project Info -->
-	<property name="project.archive" value="blackrook-ogl-gui" />
+	<property name="project.archive" value="blackrook-oglgui" />
 	<property name="project.javadoc.title" value="Black Rook OpenGL GUI" />
 	<property name="project.classpath" value="${common.lib}${S}${ogl.lib}${S}${ogl.util.lib}" />
 	<property name="project.javadoc.packages" value="
