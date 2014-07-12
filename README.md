@@ -1,7 +1,7 @@
 # Black Rook OpenGL GUI
 
 Copyright (c) 2014 Black Rook Software. All rights reserved.  
-[http://blackrooksoftware.com/projects.htm?name=oglgui](http://blackrooksoftware.com/projects.htm?name=oglgui)  
+[http://blackrooksoftware.com/projects.htm?name=graphicsoglgui](http://blackrooksoftware.com/projects.htm?name=graphicsoglgui)  
 [https://github.com/BlackRookSoftware/GraphicsOGLGUI](https://github.com/BlackRookSoftware/GraphicsOGLGUI)
 
 ### NOTICE
